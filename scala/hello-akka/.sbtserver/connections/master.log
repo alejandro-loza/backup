@@ -1,0 +1,8 @@
+New log file opened at Tue May 31 17:40:22 CDT 2016 by 15400@alejandro-Infotec
+Taking next connection to: 49501
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 15400@alejandro-Infotec logs at Tue May 31 17:43:22 CDT 2016, goodbye.

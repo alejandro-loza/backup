@@ -1,0 +1,28 @@
+New log file opened at Tue May 24 17:11:20 CDT 2016 by 6267@alejandro-Infotec
+Taking next connection to: 48490
+New client attempting to connect on port: 58787-48490
+  Address = /127.0.1.1:48490
+This client on port 58787 has uuid 25a6f3e4-92d3-426f-9a96-77471b73427c configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-25a6f3e4-92d3-426f-9a96-77471b73427c
+Taking next connection to: 48490
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 48490
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 48490
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 48490
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 48490
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 48490
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 48490
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 48490
